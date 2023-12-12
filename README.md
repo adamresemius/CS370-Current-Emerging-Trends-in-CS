@@ -13,7 +13,7 @@
 As part of this project, I developed an intelligent agent for a treasure hunt game, where the AI-controlled pirate must navigate a maze to find the treasure before the human player. The focus was on implementing a Deep Q-Learning algorithm to train the pirate agent and fine-tune hyperparameters for optimal performance.
 
 ### Pirate Intelligent Agent
-- **Code Given:** The project provided starter code including `TreasureMaze.py` representing the environment and `GameExperience.py` storing episodes. Additionally, a Jupyter Notebook (`TreasureHuntGame.ipynb`) contained starter code. [Click here to view Project 2 Template](Project_2_Template.ipynb)
+- **Code Given:** The project provided starter code including `TreasureMaze.py` representing the environment and `GameExperience.py` storing episodes. Additionally, a Jupyter Notebook (`TreasureHuntGame.ipynb`) contained starter code. [Click here to view Project 2 Template](Project2_Template.ipynb)
   
 - **Code Created:**
   - Completed the Q-Training Algorithm section in the Jupyter Notebook, implementing the Deep Q-Learning algorithm.
